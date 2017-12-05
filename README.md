@@ -1,6 +1,5 @@
-# free-blog
-A simple blog system which can be easily deployed and extended
+# home
 
-Example as follows:
+Please watch here:
 
-[http://blog.fomjar.com/](http://blog.fomjar.com/)
+[http://www.fomjar.com/](http://www.fomjar.com/)
