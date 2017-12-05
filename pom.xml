@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.fomjar</groupId>
-	<artifactId>fomjar-blog</artifactId>
+	<artifactId>home</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>fomjar-blog</name>
+	<name>home</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
